@@ -1,0 +1,108 @@
+Algorithms for Automated Detection of Hook Effect-Bearing Amplification Curves
+https://doi.org/10.1016/j.bdq.2018.08.001
+
+
+Amyloidogenic Motifs Revealed by N-Gram Analysis
+https://doi.org/10.1038/s41598-017-13210-9
+
+
+CancerGram: An Effective Classifier for Differentiating Anticancer from Antimicrobial Peptides
+https://doi.org/10.3390/pharmaceutics12111045
+
+
+Methods for Comparing Multiple Digital PCR Experiments
+https://doi.org/10.1016/j.bdq.2016.06.004
+
+
+PCRedux: A Data Mining and Machine Learning Toolkit for qPCR Experiments
+https://doi.org/10.1101/2021.03.31.437921
+
+
+PhyMet2: A Database and Toolkit for Phylogenetic and Metabolic Analyses of Methanogens
+https://doi.org/10.1111/1758-2229.12648
+
+
+Prediction of Signal Peptides in Proteins from Malaria Parasites
+https://doi.org/10.3390/ijms19123709
+
+
+Proteomic Screening for Prediction and Design of Antimicrobial Peptides with AmpGram
+https://doi.org/10.3390/ijms21124310
+
+
+countfitteR: Efficient Selection of Count Distributions to Assess DNA Damage
+https://doi.org/10.21037/atm-20-6363
+
+
+Identification of Amyloidogenic Proteins in the Microbiomes of a Rat Parkinson's Disease Model and Wild-Type Rats
+https://doi.org/10.1002/pro.4137
+
+
+Simultaneous Detection and Quantification of DNA and Protein Biomarkers in Spectrum of Cardiovascular Diseases in a Microfluidic Microbead Chip
+https://doi.org/10.1007/s00216-019-02199-x
+
+
+Adhesion of Salmonella to Pancreatic Secretory Granule Membrane Major Glycoprotein GP2 of Human and Porcine Origin Depends on FimH Sequence Variation
+https://doi.org/10.3389/fmicb.2018.01905
+
+
+Identification of Natural Mutations Responsible for Altered Infection Phenotypes of Salmonella Enterica Clinical Isolates by Using Cell Line Infection Screens
+https://doi.org/10.1128/AEM.02177-20
+
+
+A Systematic Review and Meta-Analysis of the Epidemiology of Pathogenic Escherichia Coli of Calves and the Role of Calves as Reservoirs for Human Pathogenic E. Coli
+https://doi.org/10.3389/fcimb.2015.00023
+
+
+MIRRAGGE textendash Minimum Information Required for Reproducible AGGregation Experiments
+https://doi.org/10.3389/fnmol.2020.582488
+
+
+Phylogenetic Grouping and Biofilm Formation of Multidrug Resistant Escherichia Coli Isolates from Humans, Animals and Food Products in South-West Nigeria
+https://doi.org/10.1016/j.sciaf.2019.e00158
+
+
+HaDeX: An R Package and Web-Server for Analysis of Data from Hydrogentextendash Deuterium Exchange Mass Spectrometry Experiments
+https://doi.org/10.1093/bioinformatics/btaa587
+
+
+Classification of Dead and Living Microalgae Chlorella Vulgaris by Bioimage Informatics and Machine Learning
+https://doi.org/10.1016/j.algal.2020.101908
+
+
+chipPCR: An R Package to Pre-Process Raw Data of Amplification Curves
+https://doi.org/10.1093/bioinformatics/btv205
+
+
+Enabling Reproducible Real-Time Quantitative PCR Research: The RDML Package
+https://doi.org/10.1093/bioinformatics/btx528
+
+
+R as an Environment for Reproducible Analysis of DNA Amplification Experiments
+https://doi.org/
+
+
+Genotypic and Phenotypic Characteristics in Association with Biofilm Formation in Different Pathotypes of Human Clinical Escherichia Coli Isolates
+https://doi.org/10.1128/AEM.01660-17
+
+
+Impact of Smoothing on Parameter Estimation in Quantitative DNA Amplification Experiments
+https://doi.org/10.1373/clinchem.2014.230656
+
+
+System-Specific Periodicity in Quantitative Real-Time Polymerase Chain Reaction Data Questions Threshold-Based Quantitation
+https://doi.org/10.1038/srep38951
+
+
+Bioinformatics Methods for Identification of Amyloidogenic Peptides Show Robustness to Misannotated Training Data
+https://doi.org/10.1038/s41598-021-86530-6
+
+
+Variability of Amyloid Propensity in Imperfect Repeats of CsgA Protein of Salmonella Enterica and Escherichia Coli
+https://doi.org/10.3390/ijms22105127
+
+
+MegaGO: A Fast Yet Powerful Approach to Assess Functional Gene Ontology Similarity across Meta-Omics Data Sets
+https://doi.org/10.1021/acs.jproteome.0c00926
+
+
